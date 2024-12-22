@@ -4,15 +4,15 @@
   
 - Primarily running on Python since 2022 :/
 - Formerly a game logic programmer (Lua), now I (occasionally) publish mods for the 3D-era Grand Theft Auto games.
-- デレステ enjoyer | Your local NaoP and SaeP. Also draw sometimes, check out my Pixiv: <a href="https://www.pixiv.net/en/users/69430164" target="_blank"><img src="https://img.shields.io/badge/-Pixiv-%23333?style=for-the-badge&logo=pixiv&logoColor=white&logoSize=5" target="_blank"></a>
 - Repos won't be public until I'm satisfied with the amount of quality or progress!
+- デレステ enjoyer | Your local NaoP and SaeP. Also draw sometimes, check out my Pixiv: <a href="https://www.pixiv.net/en/users/69430164" target="_blank"><img src="https://img.shields.io/badge/-Pixiv-%23333?style=for-the-badge&logo=pixiv&logoColor=white&logoSize=5" target="_blank"></a>
   
 <h2> / current skills / </h2>
   
 - <h4> languages </h4>
   <img src = "https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=F7DF1E" alt = "pythom" />
   <img src = "https://img.shields.io/badge/Lua-007ACC?style=for-the-badge&logo=luat&logoColor=white" alt = "lua" />
-  <img src = "https://img.shields.io/badge/MySQL-E34F26?style=for-the-badge&logo=mysql&logoColor=white" alt = "sql" />
+  <img src = "https://img.shields.io/badge/SQL-E34F26?style=for-the-badge&logo=mysql&logoColor=white" alt = "sqlite" />
   
   - <h5> currently learning </h5>
     <img src = "https://img.shields.io/badge/C-007ACC?style=for-the-badge&logo=ct&logoColor=white" alt = "lua" />
@@ -20,8 +20,9 @@
   
 - <h4> designing tools </h4>
   <img src = "https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "photoshop" />
-  <img src = "https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt = "illustrator" />
-  <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" />
+  <img src = "https://img.shields.io/badge/adobe%20premiere%20pro-%23FF9A00.svg?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt = "premierepro" />
+  <img src = "https://img.shields.io/badge/adobe%20after%20effects-%23F24E1E.svg?style=for-the-badge&logo=adobeaftereffects&logoColor=white" alt = "aftereffects" />
+  <img src = "https://img.shields.io/badge/autodesk%203ds%20max-%23F24E1E.svg?style=for-the-badge&logo=autodesk&logoColor=white" alt = "3dsmax" />
   
   </br></br>
 </div>
