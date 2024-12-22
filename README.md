@@ -27,6 +27,7 @@
 </div>
 <h2> / stats and external / </h2>
 <div align="center">
+  <br>
   <a href="https://github.com/NonoNegative">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NonoNegative&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
