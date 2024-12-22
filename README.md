@@ -12,7 +12,7 @@
 - <h4> languages </h4>
   <img src = "https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=F7DF1E" alt = "pythom" />
   <img src = "https://img.shields.io/badge/Lua-007ACC?style=for-the-badge&logo=luat&logoColor=white" alt = "lua" />
-  <img src = "https://img.shields.io/badge/SQL-E34F26?style=for-the-badge&logo=mysql&logoColor=white" alt = "sqlite" />
+  <img src = "https://img.shields.io/badge/SQL-E34F26?style=for-the-badge&logo=sqlite&logoColor=white" alt = "sqlite" />
   
   - <h5> currently learning </h5>
     <img src = "https://img.shields.io/badge/C-007ACC?style=for-the-badge&logo=ct&logoColor=white" alt = "lua" />
@@ -21,7 +21,7 @@
 - <h4> designing tools </h4>
   <img src = "https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "photoshop" />
   <img src = "https://img.shields.io/badge/adobe%20premiere%20pro-%23FF9A00.svg?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt = "premierepro" />
-  <img src = "https://img.shields.io/badge/adobe%20after%20effects-%23F24E1E.svg?style=for-the-badge&logo=adobeaftereffects&logoColor=white" alt = "aftereffects" />
+  <img src = "https://img.shields.io/badge/adobe%20after%20effects-%233A0A4E.svg?style=for-the-badge&logo=adobeaftereffects&logoColor=white" alt = "aftereffects" />
   <img src = "https://img.shields.io/badge/autodesk%203ds%20max-%23F24E1E.svg?style=for-the-badge&logo=autodesk&logoColor=white" alt = "3dsmax" />
   
   </br></br>
