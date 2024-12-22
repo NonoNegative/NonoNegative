@@ -4,7 +4,7 @@
   
 - Primarily running on Python since 2022 :/
 - Formerly a game logic programmer (Lua), now I (occasionally) publish mods for the 3D-era Grand Theft Auto games.
-- デレステ enjoyer | Your local NaoP and SaeP. Also draw sometimes, check out my Pixiv: <a href="https://www.pixiv.net/en/users/69430164" target="_blank"><img src="https://img.shields.io/badge/-Pixiv-%23333?style=for-the-badge&logo=pixiv&logoColor=white&logoSize=10" target="_blank"></a>
+- デレステ enjoyer | Your local NaoP and SaeP. Also draw sometimes, check out my Pixiv: <a href="https://www.pixiv.net/en/users/69430164" target="_blank"><img src="https://img.shields.io/badge/-Pixiv-%23333?style=for-the-badge&logo=pixiv&logoColor=white&logoSize=5" target="_blank"></a>
 - Repos won't be public until I'm satisfied with the amount of quality or progress!
   
 <h2> / current skills / </h2>
