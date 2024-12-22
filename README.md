@@ -24,7 +24,6 @@
   <img src = "https://img.shields.io/badge/adobe%20after%20effects-323330.svg?style=for-the-badge&logo=adobeaftereffects&logoColor="2F0080" alt = "aftereffects" />
   <img src = "https://img.shields.io/badge/autodesk%203ds%20max-323330.svg?style=for-the-badge&logo=autodesk&logoColor=FF6619" alt = "3dsmax" />
   
-  </br></br>
 </div>
 <h2> / stats and external / </h2>
 <div align="center">
