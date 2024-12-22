@@ -10,13 +10,13 @@
 <h2> / current skills / </h2>
   
 - <h4> languages </h4>
-  <img src = "https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=F7DF1E" alt = "pythom" />
-  <img src = "https://img.shields.io/badge/Lua-007ACC?style=for-the-badge&logo=lua&logoColor=white" alt = "lua" />
-  <img src = "https://img.shields.io/badge/SQL-E34F26?style=for-the-badge&logo=sqlite&logoColor=white" alt = "sqlite" />
+  <img src = "https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=F7DF1E" alt = "python" />
+  <img src = "https://img.shields.io/badge/Lua-323330?style=for-the-badge&logo=lua&logoColor=668FFF" alt = "lua" />
+  <img src = "https://img.shields.io/badge/SQL-323330?style=for-the-badge&logo=sqlite&logoColor=FF6619" alt = "sqlite" />
   
   - <h5> currently learning </h5>
-    <img src = "https://img.shields.io/badge/C-323330?style=for-the-badge&logo=c&logoColor=F7DF1E" alt = "pythom" />
-     <img src = "https://img.shields.io/badge/java-E34F26?style=for-the-badge&logo=java&logoColor=white" alt = "sqlite" />
+    <img src = "https://img.shields.io/badge/C-323330?style=for-the-badge&logo=c&logoColor=0390FC" alt = "pythom" />
+     <img src = "https://img.shields.io/badge/java-323330?style=for-the-badge&logo=java&logoColor=BD0202" alt = "sqlite" />
   
 - <h4> designing tools </h4>
   <img src = "https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "photoshop" />
