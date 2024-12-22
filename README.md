@@ -4,8 +4,8 @@
   
 - Primarily running on Python since 2022 :/
 - Formerly a game logic programmer (Lua), now I (occasionally) publish mods for the 3D-era Grand Theft Auto games.
-- Repos won't be public until I'm satisfied with the amount of quality or progress!
 - デレステ enjoyer | Your local NaoP and SaeP. I also draw sometimes, check out my <a href="https://www.pixiv.net/en/users/69430164">Pixiv</a>!
+- Repos won't be public until I'm satisfied with the amount of quality or progress!
   
 <h2> / current skills / </h2>
   
@@ -20,12 +20,13 @@
   
 - <h4> designing tools </h4>
   <img src = "https://img.shields.io/badge/adobe%20photoshop-323330.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=0299E3" alt = "photoshop" />
-  <img src = "https://img.shields.io/badge/adobe%20premiere%20pro-323330.svg?style=for-the-badge&logo=adobepremierepro&logoColor=0E047D" alt = "premierepro" />
+  <img src = "https://img.shields.io/badge/adobe%20premiere%20pro-323330.svg?style=for-the-badge&logo=adobepremierepro&logoColor=06048C" alt = "premierepro" />
   <img src = "https://img.shields.io/badge/adobe%20after%20effects-323330.svg?style=for-the-badge&logo=adobeaftereffects&logoColor="2F0080" alt = "aftereffects" />
   <img src = "https://img.shields.io/badge/autodesk%203ds%20max-323330.svg?style=for-the-badge&logo=autodesk&logoColor=FF6619" alt = "3dsmax" />
   
   </br></br>
 </div>
+<h2> / stats and external / </h2>
 <div align="center">
   <a href="https://github.com/NonoNegative">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NonoNegative&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
