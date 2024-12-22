@@ -17,6 +17,7 @@
   - <h5> currently learning </h5>
     <img src = "https://img.shields.io/badge/C-323330?style=for-the-badge&logo=c&logoColor=0390FC" alt = "c" />
      <img src = "https://img.shields.io/badge/java-323330?style=for-the-badge&logo=codeigniter&logoColor=BD0202" alt = "java" />
+     <img src = "https://img.shields.io/badge/tensorflow-323330?style=for-the-badge&logo=tensorflow&logoColor=FF6B1C" alt = "tensorflow" />
   
 - <h4> designing tools </h4>
   <img src = "https://img.shields.io/badge/adobe%20photoshop-323330.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=0299E3" alt = "photoshop" />
@@ -35,5 +36,6 @@
 <div align ="center"> 
   <a href="https://x.com/nono_negative" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23333?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>
  <a href="https://discordapp.com/users/538330535823540224" target="_blank"><img src="https://img.shields.io/badge/-Discord-%23333?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://www.gtainside.com/user/fishseek"><img src="https://img.shields.io/badge/-ModPage-%23333?style=for-the-badge&logo=rockstargames&logoColor=white" target="_blank"></a> 
+  <a href="https://www.gtainside.com/user/fishseek"><img src="https://img.shields.io/badge/-ModPage-%23333?style=for-the-badge&logo=rockstargames&logoColor=white" target="_blank"></a>
+  <a href="https://steamcommunity.com/id/NonoNegative/"><img src="https://img.shields.io/badge/-Steam-%23333?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a> 
 </div>
