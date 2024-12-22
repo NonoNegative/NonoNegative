@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋</h1>
+<h1 align="center">Hello there!! 👋</h1>
 <div>
 <h2> / about /</h2>
   
@@ -19,10 +19,10 @@
      <img src = "https://img.shields.io/badge/java-323330?style=for-the-badge&logo=codeigniter&logoColor=BD0202" alt = "java" />
   
 - <h4> designing tools </h4>
-  <img src = "https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "photoshop" />
-  <img src = "https://img.shields.io/badge/adobe%20premiere%20pro-%23FF9A00.svg?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt = "premierepro" />
-  <img src = "https://img.shields.io/badge/adobe%20after%20effects-%233A0A4E.svg?style=for-the-badge&logo=adobeaftereffects&logoColor=white" alt = "aftereffects" />
-  <img src = "https://img.shields.io/badge/autodesk%203ds%20max-%23F24E1E.svg?style=for-the-badge&logo=autodesk&logoColor=white" alt = "3dsmax" />
+  <img src = "https://img.shields.io/badge/adobe%20photoshop-%323330.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=3C68fA" alt = "photoshop" />
+  <img src = "https://img.shields.io/badge/adobe%20premiere%20pro-%323330.svg?style=for-the-badge&logo=adobepremierepro&logoColor=0E047D" alt = "premierepro" />
+  <img src = "https://img.shields.io/badge/adobe%20after%20effects-%323330.svg?style=for-the-badge&logo=adobeaftereffects&logoColor="3A0A4E" alt = "aftereffects" />
+  <img src = "https://img.shields.io/badge/autodesk%203ds%20max-%323330.svg?style=for-the-badge&logo=autodesk&logoColor=FF6619" alt = "3dsmax" />
   
   </br></br>
 </div>
