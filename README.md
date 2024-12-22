@@ -12,7 +12,7 @@
 - <h4> languages </h4>
   <img src = "https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=F7DF1E" alt = "python" />
   <img src = "https://img.shields.io/badge/Lua-323330?style=for-the-badge&logo=lua&logoColor=668FFF" alt = "lua" />
-  <img src = "https://img.shields.io/badge/SQL-323330?style=for-the-badge&logo=sqlite&logoColor=FF6619" alt = "sqlite" />
+  <img src = "https://img.shields.io/badge/SQL-323330?style=for-the-badge&logo=sqlite&logoColor=FFFFFF" alt = "sqlite" />
   
   - <h5> currently learning </h5>
     <img src = "https://img.shields.io/badge/C-323330?style=for-the-badge&logo=c&logoColor=0390FC" alt = "c" />
